@@ -96,9 +96,9 @@ h2 {
 
 .favorite-music .albums {
     display: flex;
-    justify-content: center; /* 水平置中 */
-    gap: 30px; /* 控制項目之間的間距 */
-    flex-wrap: wrap; /* 如果項目過多，讓它自動換行 */
+    justify-content: center;
+    gap: 30px; 
+    flex-wrap: wrap;
     margin-top: 20px;
 }
 
@@ -106,7 +106,7 @@ h2 {
     width: 30px; 
     height: 25px;
     object-fit: cover;
-    margin-bottom: 8px; /* 圖片與文字的間距 */
+    margin-bottom: 8px; 
 }
 
 .note {
